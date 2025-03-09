@@ -42,9 +42,6 @@ def save():
             web_entry.delete(0,END)
             pass_entry.delete(0,END)
 
-
-
-
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
 window.title("Password Manager")
